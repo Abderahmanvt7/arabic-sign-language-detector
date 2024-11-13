@@ -12,6 +12,20 @@
 
 The Arabic Sign Language Detector is an innovative computer vision project that uses machine learning to recognize and interpret Arabic sign language in real-time. This system can detect individual Arabic sign language characters, providing a foundation for more complex sign language interpretation.
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Installation](#installation)
+   - [Requirements](#requirements)
+   - [Setup](#setup)
+4. [Usage](#usage)
+5. [Model Performance](#model-performance)
+6. [Limitations and Future Work](#limitations-and-future-work)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Support](#support)
+
+
 ## Features
 
 - Real-time detection of Arabic sign language characters
@@ -103,4 +117,4 @@ This project is part of an ongoing effort to make technology more accessible and
 
 ---
 
-Made with ❤️ by [Abderahman HAMILI](https://github.com/Abderahmanvt7)
+Made with ❤️ by [Abderahman HAMILI](abderahmanhamili.vercel.app)
